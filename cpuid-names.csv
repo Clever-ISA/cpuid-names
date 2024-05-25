@@ -1,0 +1,2 @@
+uuid-string,cpuidlo,cpuidhi,cpuid-name,vendor,vendor-docs
+018de148-0a63-7e5d-a60f-2a0ff03effe8,0xa60f2a0ff03effe8,0x018de1480a637e5d,Clever-ISA Emulator,Clever-ISA Project,https://github.com/Clever-ISA/clever-isa-emu
